@@ -1,0 +1,27 @@
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\HRS Application.exe
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\HRS Application.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\HRS Application.deps.json
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\HRS Application.runtimeconfig.json
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\HRS Application.pdb
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\Common.Logging.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\Common.Logging.Core.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\FontAwesome.Sharp.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\itext.barcodes.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\itext.forms.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\itext.io.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\itext.kernel.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\itext.layout.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\itext.pdfa.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\itext.sign.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\itext.styledxmlparser.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\itext.svg.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\Microsoft.Extensions.DependencyModel.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\Newtonsoft.Json.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\BouncyCastle.Crypto.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\System.Data.SqlClient.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\runtimes\win-arm64\native\sni.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\runtimes\win-x64\native\sni.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\runtimes\win-x86\native\sni.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VIJAYLAXMI\Desktop\HRSystem\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

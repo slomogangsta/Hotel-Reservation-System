@@ -1,0 +1,27 @@
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\HRS Application.exe
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\HRS Application.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\HRS Application.deps.json
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\HRS Application.runtimeconfig.json
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\HRS Application.pdb
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\Common.Logging.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\Common.Logging.Core.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\FontAwesome.Sharp.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\itext.barcodes.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\itext.forms.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\itext.io.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\itext.kernel.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\itext.layout.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\itext.pdfa.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\itext.sign.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\itext.styledxmlparser.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\itext.svg.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\Microsoft.Extensions.DependencyModel.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\Newtonsoft.Json.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\BouncyCastle.Crypto.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\System.Data.SqlClient.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\runtimes\win-arm64\native\sni.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\runtimes\win-x64\native\sni.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\runtimes\win-x86\native\sni.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VIJAYLAXMI\Desktop\HotelReservation\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
